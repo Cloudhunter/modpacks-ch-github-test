@@ -1,0 +1,14 @@
+{
+  "$schema": "https://modpacks.ch/schemas/project-link-v1.json",
+  "version": 1,
+  "projects": {
+    "github": "Cloudhunter/modpacks-ch-github-test"
+  },
+  "destinations": [
+    {
+      "platform": "github",
+      "releases": true,
+      "manifestAsset": "modpacksch-release.json"
+    }
+  ]
+}

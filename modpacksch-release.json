@@ -1,0 +1,15 @@
+{
+  "$schema": "https://modpacks.ch/schemas/github-release-v1.json",
+  "version": 1,
+  "name": "Disposable test artifact",
+  "asset": "dummy.jar",
+  "targets": {
+    "gameVersions": ["1.21.1"],
+    "loaders": ["fabric"]
+  },
+  "environment": {
+    "client": "required",
+    "server": "required"
+  },
+  "dependencies": []
+}
